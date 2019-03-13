@@ -1,4 +1,4 @@
-# mailcatcher docker image
+# mailcatcher(0.7.1) docker image
 
 This is an unofficial very small Dockerfile image (~34 MB uncompressed) for [mailcatcher gem][mailcatcher]. It is based on [Alpine Linux][alpinehubpage] and using the last available release from the official Github repo of [mailcatcher][mailcatcher].
 
